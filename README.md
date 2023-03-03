@@ -1,2 +1,2 @@
 # LaravelCourse
-Starting on Laravel from Youtube course
+[https://laravel.com/]
