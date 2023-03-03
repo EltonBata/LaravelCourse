@@ -1,2 +1,2 @@
 # LaravelCourse
-[](https://laravel.com/)
+[https://laravel.com/img/logotype.min.svg](https://laravel.com/)
