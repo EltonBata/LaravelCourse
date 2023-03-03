@@ -1,2 +1,2 @@
 # LaravelCourse
-[https://laravel.com/]
+[](https://laravel.com/)
